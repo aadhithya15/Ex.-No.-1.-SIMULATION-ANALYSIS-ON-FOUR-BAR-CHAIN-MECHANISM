@@ -53,7 +53,7 @@
 
 
 ## Output:
-![output](ex1.png)
+[![output](ex1.png)](https://github.com/Yogeshvar005/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/blob/main/ex1.png)
 
 
 
