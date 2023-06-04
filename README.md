@@ -53,7 +53,8 @@
 
 
 ## Output:
-[![output](ex1.png)](https://github.com/Yogeshvar005/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/blob/main/ex1.png)
+![image](https://github.com/aadhithya15/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/121165812/91c98e4d-5082-485d-b76f-042854671d69)
+
 
 
 
